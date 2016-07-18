@@ -1,6 +1,6 @@
 {
   "name": "arie-lex",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Doet vrij weinig, behalve lastig.",
   "main": "index.js",
   "scripts": {
