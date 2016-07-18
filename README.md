@@ -13,11 +13,11 @@ Slack is eigenlijk veel te relaxt. Daarom is ter compensatie Arie Lex ontwikkeld
 Wensenlijstje
 -------------
 
-[ ] Configureerbaar maken
-[ ] Applicatie structuur aanbrengen
-[ ] Herhaling van dezelfde teksten beperken
-[ ] Kop houden functie
-[ ] Meer inhoud toevoegen
-[ ] Meer variaties in reacties toevoegen
-[ ] Hotswappable content
-[ ] Database/beheer
+- [ ] Configureerbaar maken
+- [ ] Applicatie structuur aanbrengen
+- [ ] Herhaling van dezelfde teksten beperken
+- [ ] Kop houden functie
+- [ ] Meer inhoud toevoegen
+- [ ] Meer variaties in reacties toevoegen
+- [ ] Hotswappable content
+- [ ] Database/beheer
